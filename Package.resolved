@@ -1,0 +1,23 @@
+{
+  "pins" : [
+    {
+      "identity" : "kakaohealthcarefoundation",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/kakaohealthcare-DT/KakaoHealthcareFoundation.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "270c43ab6191dcfc845d464b3f1e57843dc96d5e"
+      }
+    },
+    {
+      "identity" : "snapkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/SnapKit/SnapKit.git",
+      "state" : {
+        "revision" : "2842e6e84e82eb9a8dac0100ca90d9444b0307f4",
+        "version" : "5.7.1"
+      }
+    }
+  ],
+  "version" : 2
+}
